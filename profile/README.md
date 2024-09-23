@@ -1,6 +1,6 @@
 # Kairos Dev
 
-**Kairos Dev** es un grupo de desarrollo web conformado por:
+**DCG Dev** es un grupo de desarrollo web conformado por:
 
 <table>
   <tr>
