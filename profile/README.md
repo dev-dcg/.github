@@ -1,4 +1,4 @@
-# Kairos Dev
+# DCG Dev
 
 **DCG Dev** es un grupo de desarrollo web conformado por:
 
